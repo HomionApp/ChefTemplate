@@ -9,6 +9,7 @@
 .own-body {
 	background-color: #f1f2f7;
 }
+<<<<<<< HEAD
 .border-2 {
 	border-width: 2px;
 }
@@ -60,3 +61,14 @@
     float: right;
   }
 }
+=======
+
+.own-border {
+	width: 92%;
+	height: 2px;
+}
+
+.border-2 {
+	border-width: 2px;
+}
+>>>>>>> c250321710c9d13b5e54818045cb80ca0f14b52a
