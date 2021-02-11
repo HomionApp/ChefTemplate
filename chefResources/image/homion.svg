@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1121" height="307" viewBox="0 0 1121 307">
+  <defs>
+    <clipPath id="clip-Splash_1">
+      <rect width="1121" height="307"/>
+    </clipPath>
+  </defs>
+  <g id="Splash_1" data-name="Splash – 1" clip-path="url(#clip-Splash_1)">
+    <rect width="1121" height="307" fill="#fff"/>
+    <g id="Group_18" data-name="Group 18" transform="translate(-115 -161)">
+      <text id="Homion" transform="translate(147 424)" fill="#075d0f" font-size="320" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="0">Homion</tspan></text>
+      <path id="Path_10" data-name="Path 10" d="M-3446.932-1185.515-3262.95-1187s-4.468,15.883-14.229,16.048-95.135-1.158-95.135-1.158-16.05,22.5-38.055,19.192-32.853-18.265-35.83-24.387S-3446.932-1185.515-3446.932-1185.515Z" transform="translate(4231.622 1416.752)" fill="#f83a1a" stroke="#f83a1a" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
